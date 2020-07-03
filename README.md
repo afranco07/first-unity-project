@@ -3,5 +3,5 @@
 This is my first project I made using [Unity](https://unity.com). This project was mostly to learn how to use Unity and to get myself familiarize with the controls.
 
 ## Demo
-![https://raw.githubusercontent.com/afranco07/gifImageStorage/master/firstunity.gif]
+![Unity demo](https://raw.githubusercontent.com/afranco07/gifImageStorage/master/firstunity.gif)
 
